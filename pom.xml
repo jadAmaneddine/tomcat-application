@@ -46,7 +46,7 @@
         <version>1.9.10</version>
         <configuration>
           <container>
-            <containerId>tomcat10x</containerId>
+            <containerId>tomcat9x</containerId>
             <type>embedded</type>
           </container>
         </configuration>
